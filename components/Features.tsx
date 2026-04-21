@@ -36,7 +36,7 @@ export function Features() {
       <div
         className="absolute inset-0 -z-10"
         style={{
-          background: "linear-gradient(to bottom, #D0EEF1 30%, #1E4D53 100%)",
+          background: "#D0EEF1",
           clipPath: "polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 110px))",
         }}
       />
