@@ -29,7 +29,7 @@ const steps = [
 export function Features() {
   return (
     <section
-      className="relative z-[5] overflow-visible pt-24 lg:pt-28"
+      className="relative z-[5] overflow-visible pt-40 lg:pt-44"
       style={{ marginTop: "-120px" }}
     >
       {/* Teal background with reversed diagonal clip at the bottom */}
@@ -49,7 +49,7 @@ export function Features() {
           </h3>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 relative pb-56 lg:pb-96">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 relative pb-48 lg:pb-80">
           <div className="hidden lg:block absolute top-12 left-[10%] right-[10%] h-[1px] bg-gradient-to-r from-transparent via-brand-400/20 to-transparent" />
 
           {steps.map((step, index) => (
