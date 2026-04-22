@@ -45,7 +45,7 @@ export function Features() {
         <div className="text-center max-w-3xl mx-auto mb-20">
           <h2 className="text-brand-900 font-semibold tracking-wide uppercase text-base mb-4">How it works</h2>
           <h3 className="text-4xl md:text-6xl font-display font-semibold text-gray-900 leading-tight">
-            Pay for performance, not posting.
+            Smarter creator campaigns—measured, scalable, efficient.
           </h3>
         </div>
 
